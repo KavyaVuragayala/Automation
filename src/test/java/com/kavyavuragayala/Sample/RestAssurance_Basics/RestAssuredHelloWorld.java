@@ -1,4 +1,4 @@
-package com.kavyavuragayala.Sample;
+package com.kavyavuragayala.Sample.RestAssurance_Basics;
 
 import io.restassured.RestAssured;
 
