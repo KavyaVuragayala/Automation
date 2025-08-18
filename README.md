@@ -39,7 +39,7 @@ This repository covers hands-on implementation of:
 ## 📁 Project Structure
 
 ```bash
-ATB12x-API-Automation/
+API-Automation/
 │
 ├── src/test/java/
 │   ├── base/                 # Base test setup
